@@ -16,7 +16,8 @@ DiceRoller-challenge adds onto DiceRoller with a Count Up button that does the f
 # Let's Play 
 
 
-![DiceRollerChallenge](https://user-images.githubusercontent.com/34714108/90815085-c9b25900-e332-11ea-9865-b88b2e0a2c06.gif)
+![smallSize](https://user-images.githubusercontent.com/34714108/90816197-8953da80-e334-11ea-84e3-3a7a58a6ecf5.gif)
+
 
 
 # License
